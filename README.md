@@ -1,23 +1,20 @@
-Hi there 👋, I'm [Nama Anda]!
+Hi there 👋, I'm Syahri Nasta'in!
 
 👨‍💻 Tentang Saya
 
-Saya adalah seorang [Profesi Anda, misal: Software Engineer / Web Developer / Data Analyst] yang bersemangat dalam membangun solusi digital yang inovatif.
+Saya adalah seorang  Software Engineer & Web Developer yang bersemangat dalam membangun solusi digital yang inovatif.
 
-🔭 Saat ini saya sedang mengerjakan [Sebutkan proyek saat ini]
+🔭 Saat ini saya sedang mengerjakan proyek tugas ippl
 
-🌱 Saat ini saya sedang mempelajari [Sebutkan teknologi yang sedang dipelajari, misal: React, Node.js, Python]
+🌱 Saat ini saya sedang mempelajari React, Node.js, Python
 
 👯 Saya terbuka untuk berkolaborasi pada [Sebutkan jenis proyek open source]
 
-💬 Tanyakan saya tentang [Sebutkan keahlian Anda, misal: JavaScript, UI/UX, Data Science]
+💬 Tanyakan saya tentang JavaScript, UI/UX, Data Science
 
-📫 Cara menghubungi saya: [Email Anda]
+📫 Cara menghubungi saya: syahrinastain06@gmail.com
 
 🛠️ Tech Stack & Tools
 
-Bagian ini bisa Anda sesuaikan dengan ikon teknologi yang Anda kuasai
-
 🌐 Mari Terhubung
-
 📊 GitHub Stats
