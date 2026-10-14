@@ -8,7 +8,7 @@ Saya adalah seorang  Software Engineer & Web Developer yang bersemangat dalam me
 
 🌱 Saat ini saya sedang mempelajari React, Node.js, Python
 
-👯 Saya terbuka untuk berkolaborasi pada [Sebutkan jenis proyek open source]
+👯 Saya terbuka untuk berkolaborasi pada Pengembangan Web & Data science
 
 💬 Tanyakan saya tentang JavaScript, UI/UX, Data Science
 
