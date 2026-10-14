@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋, I'm [Nama Anda]!
 
-<!--
-**Nastain-06/nastain-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Tentang Saya
 
-Here are some ideas to get you started:
+Saya adalah seorang [Profesi Anda, misal: Software Engineer / Web Developer / Data Analyst] yang bersemangat dalam membangun solusi digital yang inovatif.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Saat ini saya sedang mengerjakan [Sebutkan proyek saat ini]
+
+🌱 Saat ini saya sedang mempelajari [Sebutkan teknologi yang sedang dipelajari, misal: React, Node.js, Python]
+
+👯 Saya terbuka untuk berkolaborasi pada [Sebutkan jenis proyek open source]
+
+💬 Tanyakan saya tentang [Sebutkan keahlian Anda, misal: JavaScript, UI/UX, Data Science]
+
+📫 Cara menghubungi saya: [Email Anda]
+
+🛠️ Tech Stack & Tools
+
+Bagian ini bisa Anda sesuaikan dengan ikon teknologi yang Anda kuasai
+
+🌐 Mari Terhubung
+
+📊 GitHub Stats
