@@ -15,6 +15,10 @@ Saya adalah seorang  Software Engineer & Web Developer yang bersemangat dalam me
 📫 Cara menghubungi saya: syahrinastain06@gmail.com
 
 🛠️ Tech Stack & Tools
+Languages: Python, Java
+Frameworks: Django
+Database: MySQL, SQLite
+Tools: Git, GitHub, VS Code, XAMPP
 
 🌐 Mari Terhubung
 📊 GitHub Stats
